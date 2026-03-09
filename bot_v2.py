@@ -17,9 +17,9 @@ from telegram.ext import (
 # ============================================================
 # ⚙️  配置 — 替换这3个值
 # ============================================================
-BOT_TOKEN        = "8529907934:AAFXU4oLJHSXpqR0V9U0p9dtZtLiYVvgAoU"       # ⚠️ 换新的
-TRONGRID_API_KEY = "763b4057-8159-40d5-9d85-d11a17a92dc5"    # ⚠️ 换新的
-PRODUCT_FILE_URL = "https://drive.google.com/file/d/xxx/view"  # 把 AI_Money_Toolkit.pdf 上传到 Google Drive 后填入此处    # 产品文件链接
+BOT_TOKEN        = "8511728121:AAEK9jLRP3XwEeKRR7ngqNmuExDdEua08Tg"       #
+TRONGRID_API_KEY = "763b4057-8159-40d5-9d85-d11a17a92dc5"    # 
+PRODUCT_FILE_URL = "https://drive.google.com/file/d/1BJUAaw9b7mTGGIh0qWX2Q--hSmKDaVJi/view?usp=drive_link"    # 产品文件链接
 
 # 已固定配置（无需修改）
 USDT_WALLET      = "THRgbNGBDt4NYg4mukGpx9xPHg4BDyQFum"
