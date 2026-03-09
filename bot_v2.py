@@ -17,7 +17,7 @@ from telegram.ext import (
 # ============================================================
 # ⚙️  配置 — 替换这3个值
 # ============================================================
-BOT_TOKEN        = "8511728121:AAEK9jLRP3XwEeKRR7ngqNmuExDdEua08Tg"       #
+BOT_TOKEN        = "8511728121:AAFZlPXdIJjcL5b4xSXaZQBadNu_K3n38OM"       #
 TRONGRID_API_KEY = "763b4057-8159-40d5-9d85-d11a17a92dc5"    # 
 PRODUCT_FILE_URL = "https://drive.google.com/file/d/1BJUAaw9b7mTGGIh0qWX2Q--hSmKDaVJi/view?usp=drive_link"    # 产品文件链接
 
